@@ -1,5 +1,6 @@
 # Frontend Mentor - Testimonials grid section
-deploy-link:https://tukeshwari-verma-testimonials-grid.netlify.app
+# deploy-link
+https://tukeshwari-verma-testimonials-grid.netlify.app
 # desktop-view
 ![desktop-design](https://user-images.githubusercontent.com/102142382/223810194-ee85f3ea-7976-4840-b450-2ad0d5bb8980.jpg)
 # mobile-view
